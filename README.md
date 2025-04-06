@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Tech in **Textile Technology** from **IIT Delhi** (2021–2025)  
+- 🎓 Final-year B.Tech student at  **IIT Delhi** (2021–2025)  
 - 💡 Passionate about **Software Development**, **Artificial Intelligence**, and **Cutting-Edge Tech**
 - 🤖 Strong interest in **Large Language Models (LLMs)**, **Computer Vision**, and **Web Development**
 - 🧠 Always eager to learn, experiment, and bring ideas to life through code
